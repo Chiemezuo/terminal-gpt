@@ -38,7 +38,7 @@ An AI chat-bot that runs globally from any directory in the command line, powere
 ```bash
   API_KEY=####################
 ```
-7. Set an environment variable called **`API_KEY`** on your computer. See these for [Windows](https://geekflare.com/system-environment-variables-in-windows/), [Ubuntu](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/), or [Mac](https://saturncloud.io/blog/setting-environment-variables-on-os-x/)
+7. Set an environment variable called **`API_KEY`** on your computer, and let its value be your openAI key. See these for [Windows](https://geekflare.com/system-environment-variables-in-windows/), [Ubuntu](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/), or [Mac](https://saturncloud.io/blog/setting-environment-variables-on-os-x/)
 
 8. You're all set.
 
